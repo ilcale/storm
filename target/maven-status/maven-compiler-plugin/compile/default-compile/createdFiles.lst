@@ -1,0 +1,5 @@
+storm/bolt/UpperCaseBolt.class
+storm/spout/TwitterSpout$1.class
+storm/bolt/WriteToFileBolt.class
+storm/StormApp.class
+storm/spout/TwitterSpout.class
